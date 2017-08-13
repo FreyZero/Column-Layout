@@ -1,0 +1,14 @@
+{
+  "name": "columnlayout",
+  "version": "1.0.0",
+  "description": "Photo Gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ratchapon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
